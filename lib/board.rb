@@ -1,1 +1,2 @@
 # Define the variable board below.
+board = ["_", "_", "_", "_", "_", "_", "_", "_", "_",]
